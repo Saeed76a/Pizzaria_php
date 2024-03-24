@@ -1,0 +1,5 @@
+.bg-pizza {
+  background-image: url("assets/img/pizza.jpg");
+  background-position: center; /* Alinha a imagem ao centro */
+  background-size: cover; /* Faz com que a imagem cubra todo o elemento */
+}
